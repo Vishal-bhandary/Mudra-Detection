@@ -1,0 +1,189 @@
+{
+  "Alapadmam(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1.0
+  },
+  "Anjali(1)": {
+    "precision": 0.9863013698630136,
+    "recall": 0.96,
+    "f1-score": 0.972972972972973,
+    "support": 75.0
+  },
+  "Ardhapathaka(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2.0
+  },
+  "Berunda(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 149.0
+  },
+  "Chakra(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14.0
+  },
+  "Garuda(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 256.0
+  },
+  "Kapith(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2.0
+  },
+  "Kapotham(1)": {
+    "precision": 0.9896373056994818,
+    "recall": 0.9896373056994818,
+    "f1-score": 0.9896373056994818,
+    "support": 386.0
+  },
+  "Karkatta(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 158.0
+  },
+  "Kartariswastika(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 366.0
+  },
+  "Katakavardhana(1)": {
+    "precision": 0.9973958333333334,
+    "recall": 0.9845758354755784,
+    "f1-score": 0.9909443725743855,
+    "support": 389.0
+  },
+  "Khatva(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 203.0
+  },
+  "Kilaka(1)": {
+    "precision": 0.9742489270386266,
+    "recall": 1.0,
+    "f1-score": 0.9869565217391304,
+    "support": 227.0
+  },
+  "Kurma(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 40.0
+  },
+  "Matsya(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 12.0
+  },
+  "Mayura(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1.0
+  },
+  "Nagabandha(1)": {
+    "precision": 0.9810126582278481,
+    "recall": 0.9935897435897436,
+    "f1-score": 0.9872611464968153,
+    "support": 156.0
+  },
+  "Pasha(1)": {
+    "precision": 1.0,
+    "recall": 0.9787985865724381,
+    "f1-score": 0.9892857142857143,
+    "support": 283.0
+  },
+  "Pathaka(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1.0
+  },
+  "Pushpaputa(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 110.0
+  },
+  "Sakata(1)": {
+    "precision": 0.9878048780487805,
+    "recall": 0.997946611909651,
+    "f1-score": 0.992849846782431,
+    "support": 487.0
+  },
+  "Samputa(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 82.0
+  },
+  "Sarpasirsha(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1.0
+  },
+  "Shanka(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 120.0
+  },
+  "Shivalinga(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 16.0
+  },
+  "Shukatundam(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1.0
+  },
+  "Simhamukham(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
+  },
+  "Tripathaka(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2.0
+  },
+  "Varaha(1)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2.0
+  },
+  "accuracy": 0.9940761636107194,
+  "macro avg": {
+    "precision": 0.9971172749038305,
+    "recall": 0.9967085545947205,
+    "f1-score": 0.9968933751914114,
+    "support": 3545.0
+  },
+  "weighted avg": {
+    "precision": 0.9941362591360962,
+    "recall": 0.9940761636107194,
+    "f1-score": 0.9940727604283768,
+    "support": 3545.0
+  }
+}

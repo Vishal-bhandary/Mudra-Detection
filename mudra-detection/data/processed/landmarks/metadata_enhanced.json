@@ -1,0 +1,342 @@
+{
+  "total_single_hand": 19807,
+  "total_double_hand": 4431,
+  "total_images": 24238,
+  "failed_images": 4193,
+  "mudra_classes_single": [
+    "Alapadmam(1)",
+    "Anjali(1)",
+    "Aralam(1)",
+    "Ardhachandran(1)",
+    "Ardhapathaka(1)",
+    "Berunda(1)",
+    "Bramaram(1)",
+    "Chakra(1)",
+    "Chandrakala(1)",
+    "Chaturam(1)",
+    "Garuda(1)",
+    "Hamsapaksha(1)",
+    "Hamsasyam(1)",
+    "Kangulam(1)",
+    "Kapith(1)",
+    "Kapotham(1)",
+    "Karkatta(1)",
+    "Kartariswastika(1)",
+    "Katakamukha_1",
+    "Katakamukha_2",
+    "Katakamukha_3",
+    "Katakavardhana(1)",
+    "Katrimukha(1)",
+    "Khatva(1)",
+    "Kilaka(1)",
+    "Kurma(1)",
+    "Matsya(1)",
+    "Mayura(1)",
+    "Mrigasirsha(1)",
+    "Mukulam(1)",
+    "Mushti(1)",
+    "Nagabandha(1)",
+    "Padmakosha(1)",
+    "Pasha(1)",
+    "Pathaka(1)",
+    "Pushpaputa(1)",
+    "Sakata(1)",
+    "Samputa(1)",
+    "Sarpasirsha(1)",
+    "Shanka(1)",
+    "Shivalinga(1)",
+    "Shukatundam(1)",
+    "Sikharam(1)",
+    "Simhamukham(1)",
+    "Suchi(1)",
+    "Tamarachudam(1)",
+    "Tripathaka(1)",
+    "Trishulam(1)",
+    "Varaha(1)"
+  ],
+  "mudra_classes_double": [
+    "Alapadmam(1)",
+    "Anjali(1)",
+    "Ardhapathaka(1)",
+    "Berunda(1)",
+    "Chakra(1)",
+    "Garuda(1)",
+    "Kapith(1)",
+    "Kapotham(1)",
+    "Karkatta(1)",
+    "Kartariswastika(1)",
+    "Katakavardhana(1)",
+    "Khatva(1)",
+    "Kilaka(1)",
+    "Kurma(1)",
+    "Matsya(1)",
+    "Mayura(1)",
+    "Nagabandha(1)",
+    "Pasha(1)",
+    "Pathaka(1)",
+    "Pushpaputa(1)",
+    "Sakata(1)",
+    "Samputa(1)",
+    "Sarpasirsha(1)",
+    "Shanka(1)",
+    "Shivalinga(1)",
+    "Shukatundam(1)",
+    "Simhamukham(1)",
+    "Tripathaka(1)",
+    "Varaha(1)"
+  ],
+  "num_classes_single": 49,
+  "num_classes_double": 29,
+  "mudra_statistics": {
+    "Alapadmam(1)": {
+      "single": 383,
+      "double": 1,
+      "failed": 153
+    },
+    "Anjali(1)": {
+      "single": 498,
+      "double": 94,
+      "failed": 1
+    },
+    "Aralam(1)": {
+      "single": 556,
+      "double": 0,
+      "failed": 59
+    },
+    "Ardhachandran(1)": {
+      "single": 457,
+      "double": 0,
+      "failed": 6
+    },
+    "Ardhapathaka(1)": {
+      "single": 435,
+      "double": 2,
+      "failed": 140
+    },
+    "Berunda(1)": {
+      "single": 363,
+      "double": 186,
+      "failed": 24
+    },
+    "Bramaram(1)": {
+      "single": 404,
+      "double": 0,
+      "failed": 51
+    },
+    "Chakra(1)": {
+      "single": 592,
+      "double": 17,
+      "failed": 1
+    },
+    "Chandrakala(1)": {
+      "single": 442,
+      "double": 0,
+      "failed": 24
+    },
+    "Chaturam(1)": {
+      "single": 426,
+      "double": 0,
+      "failed": 40
+    },
+    "Garuda(1)": {
+      "single": 308,
+      "double": 320,
+      "failed": 5
+    },
+    "Hamsapaksha(1)": {
+      "single": 257,
+      "double": 0,
+      "failed": 312
+    },
+    "Hamsasyam(1)": {
+      "single": 470,
+      "double": 0,
+      "failed": 95
+    },
+    "Kangulam(1)": {
+      "single": 387,
+      "double": 0,
+      "failed": 140
+    },
+    "Kapith(1)": {
+      "single": 491,
+      "double": 3,
+      "failed": 64
+    },
+    "Kapotham(1)": {
+      "single": 174,
+      "double": 482,
+      "failed": 13
+    },
+    "Karkatta(1)": {
+      "single": 338,
+      "double": 198,
+      "failed": 14
+    },
+    "Kartariswastika(1)": {
+      "single": 224,
+      "double": 457,
+      "failed": 0
+    },
+    "Katakamukha_1": {
+      "single": 425,
+      "double": 0,
+      "failed": 67
+    },
+    "Katakamukha_2": {
+      "single": 389,
+      "double": 0,
+      "failed": 99
+    },
+    "Katakamukha_3": {
+      "single": 414,
+      "double": 0,
+      "failed": 93
+    },
+    "Katakavardhana(1)": {
+      "single": 272,
+      "double": 486,
+      "failed": 11
+    },
+    "Katrimukha(1)": {
+      "single": 488,
+      "double": 0,
+      "failed": 76
+    },
+    "Khatva(1)": {
+      "single": 170,
+      "double": 254,
+      "failed": 39
+    },
+    "Kilaka(1)": {
+      "single": 172,
+      "double": 284,
+      "failed": 2
+    },
+    "Kurma(1)": {
+      "single": 467,
+      "double": 50,
+      "failed": 85
+    },
+    "Matsya(1)": {
+      "single": 613,
+      "double": 15,
+      "failed": 35
+    },
+    "Mayura(1)": {
+      "single": 515,
+      "double": 1,
+      "failed": 18
+    },
+    "Mrigasirsha(1)": {
+      "single": 307,
+      "double": 0,
+      "failed": 252
+    },
+    "Mukulam(1)": {
+      "single": 367,
+      "double": 0,
+      "failed": 204
+    },
+    "Mushti(1)": {
+      "single": 431,
+      "double": 0,
+      "failed": 59
+    },
+    "Nagabandha(1)": {
+      "single": 370,
+      "double": 195,
+      "failed": 12
+    },
+    "Padmakosha(1)": {
+      "single": 469,
+      "double": 0,
+      "failed": 26
+    },
+    "Pasha(1)": {
+      "single": 149,
+      "double": 354,
+      "failed": 4
+    },
+    "Pathaka(1)": {
+      "single": 440,
+      "double": 1,
+      "failed": 127
+    },
+    "Pushpaputa(1)": {
+      "single": 462,
+      "double": 138,
+      "failed": 123
+    },
+    "Sakata(1)": {
+      "single": 5,
+      "double": 609,
+      "failed": 0
+    },
+    "Samputa(1)": {
+      "single": 358,
+      "double": 102,
+      "failed": 188
+    },
+    "Sarpasirsha(1)": {
+      "single": 393,
+      "double": 1,
+      "failed": 169
+    },
+    "Shanka(1)": {
+      "single": 553,
+      "double": 150,
+      "failed": 21
+    },
+    "Shivalinga(1)": {
+      "single": 640,
+      "double": 20,
+      "failed": 21
+    },
+    "Shukatundam(1)": {
+      "single": 474,
+      "double": 1,
+      "failed": 84
+    },
+    "Sikharam(1)": {
+      "single": 485,
+      "double": 0,
+      "failed": 45
+    },
+    "Simhamukham(1)": {
+      "single": 435,
+      "double": 4,
+      "failed": 84
+    },
+    "Suchi(1)": {
+      "single": 423,
+      "double": 0,
+      "failed": 62
+    },
+    "Swastikam(1)": {
+      "single": 0,
+      "double": 0,
+      "failed": 745
+    },
+    "Tamarachudam(1)": {
+      "single": 428,
+      "double": 0,
+      "failed": 131
+    },
+    "Tripathaka(1)": {
+      "single": 456,
+      "double": 3,
+      "failed": 92
+    },
+    "Trishulam(1)": {
+      "single": 499,
+      "double": 0,
+      "failed": 61
+    },
+    "Varaha(1)": {
+      "single": 533,
+      "double": 3,
+      "failed": 16
+    }
+  }
+}

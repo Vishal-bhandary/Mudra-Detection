@@ -1,0 +1,22 @@
+# Core ML and CV libraries
+tensorflow==2.17.0
+opencv-python==4.9.0.80
+mediapipe==0.10.21
+numpy==1.26.4          # UPDATED: Compatible with Python 3.12 (prevents source build error)
+pandas==2.2.2          # UPDATED: Compatible with Python 3.12
+# Note: You can also try numpy>=2.0.0, but 1.26.4 is safer for older TensorFlow versions.
+
+# Image processing
+Pillow==10.3.0         # UPDATED: Recent compatible version
+scikit-image==0.23.2   # UPDATED: Recent compatible version
+
+# ML utilities
+scikit-learn==1.4.2    # UPDATED: Recent compatible version
+matplotlib==3.8.4      # UPDATED: Recent compatible version
+seaborn==0.13.2        # UPDATED: Recent compatible version
+
+# Progress tracking
+tqdm==4.66.4           # UPDATED: Recent version
+
+# Model saving
+joblib==1.4.0          # UPDATED: Recent version
